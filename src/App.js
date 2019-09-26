@@ -5,7 +5,7 @@ import GithubData from './components/GithubData';
 function App() {
   return (
     <div className="App">
-      <GithubData />
+      <GithubData path="/" />
     </div>
   );
 }
